@@ -3,7 +3,7 @@ A localisation library mod for the video game [ATLYSS](https://store.steampowere
 
 ## :warning: New Maintainer
 Unfortunately, I don't have time to work on this project anymore.  
-For an updated version, check out the fork by the [sallys-workshop](https://github.com/sallys-workshop) team: https://github.com/sallys-workshop/Localyssation
+For an updated version, check out the fork by the [Sally's Workshop](https://github.com/sallys-workshop) team: https://github.com/sallys-workshop/Localyssation
 
 ## Features of this version
 * New "Language" option in the "Interface" settings tab
