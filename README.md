@@ -1,10 +1,11 @@
 # Localyssation
-A work-in-progress localisation library mod for the video game [ATLYSS](https://store.steampowered.com/app/2768430/ATLYSS/).
+A localisation library mod for the video game [ATLYSS](https://store.steampowered.com/app/2768430/ATLYSS/).
 
-## :warning: Important note :warning:
-This mod is not finished yet! The pre-release versions you see are unfinished versions of the mod intended for translators to make their own languages early.
+## :warning: New Maintainer
+Unfortunately, I don't have time to work on this project anymore.  
+For an updated version, check out the fork by the [sallys-workshop](https://github.com/sallys-workshop) team: https://github.com/sallys-workshop/Localyssation
 
-## Current features
+## Features of this version
 * New "Language" option in the "Interface" settings tab
 * Loading all custom languages found in the BepInEx plugins folder
   * A language consists of the following files:
